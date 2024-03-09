@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265240139070",
+    "project_id": "project-dee56",
+    "storage_bucket": "project-dee56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265240139070:android:cad1249384792439b8c86f",
+        "android_client_info": {
+          "package_name": "emrealtunbilek.com.flutter_lovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265240139070-qtn2509qanpq2baaii7kesike26cea62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQ6-VRLn_7tQGbshpFoOMBWfD48mhfoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265240139070-qtn2509qanpq2baaii7kesike26cea62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
